@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ishita2104/ishita2104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +15,11 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=harsh725">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ishita2104">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I+am+Isita+Chattopadhyay....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Folks!+👋;I+am+Isita+Chattopadhyay....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
